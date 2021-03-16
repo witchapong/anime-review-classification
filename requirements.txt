@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+fastai==2.2.5
